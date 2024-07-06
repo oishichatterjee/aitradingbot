@@ -1,8 +1,5 @@
-# TraderBot
-Build a trader bot which looks at sentiment of live news events and trades appropriately. 
-
-## See it live and in action 📺
-<img src="https://i.imgur.com/FaQH8rz.png"/>
+# AI Trader Bot
+A trader bot which looks at sentiment of live news events and trades appropriately. 
 
 # Startup 🚀
 1. Create a virtual environment `conda create -n trader python=3.10` 
@@ -29,6 +26,6 @@ If you're getting an SSL error when you attempt to call out to the Alpaca Tradin
 
 # Who, When, Why?
 
-👨🏾‍💻 Author: Nick Renotte <br />
-📅 Version: 1.x<br />
+👨🏾‍💻 Author: Oishi Chatterjee <br />
+📅 Version: 1.1<br />
 📜 License: This project is licensed under the MIT License </br>
